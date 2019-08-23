@@ -1,0 +1,22 @@
+{
+  "name": "usecb",
+  "version": "1.0.0",
+  "description": "like classComponent setState callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzw7489757/useCb.git"
+  },
+  "keywords": [
+    "useState"
+  ],
+  "author": "floydYzw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yzw7489757/useCb/issues"
+  },
+  "homepage": "https://github.com/yzw7489757/useCb#readme"
+}
